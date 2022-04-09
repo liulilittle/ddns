@@ -1,0 +1,3 @@
+https://freemyip.com/update?token=41ecb93f5e772bc8863c9efb&domain=ppp-cnvn-gdrn.freemyip.com&myip=1.2.3.4
+https://freemyip.com/update?token=41ecb93f5e772bc8863c9efb&domain=ppp-cnvn-gdrn.freemyip.com
+https://freemyip.com/update?token=799860a8a521350297219037&domain=ppp-nat-cdyd-1.freemyip.com
